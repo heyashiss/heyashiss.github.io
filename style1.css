@@ -1,0 +1,20 @@
+img{
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+            
+            
+}
+p{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	size:2;
+	max-width: 800px;
+	min: width 200px;
+	line-height: 1.7;
+	font-style: italic;
+}
+ div {
+ 	text-align: center;
+}
